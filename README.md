@@ -79,4 +79,4 @@ Este software modifica configurações do Windows (Registry, serviços, energia,
 Sugestões e issues são bem-vindas. Como o projeto ainda está em fase inicial, a estrutura pode mudar bastante antes da primeira versão.
 
 ## Licença
-
+MIT
